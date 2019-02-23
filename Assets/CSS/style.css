@@ -2,12 +2,10 @@
 
 
 /* Easy Reset */
+
 * {
     margin: 0;
     padding: 0;
 }
 
-.class-1 {
-
-}
-
+.class-1 {}
