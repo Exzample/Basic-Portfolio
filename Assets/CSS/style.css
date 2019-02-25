@@ -22,10 +22,16 @@
     }
     
     body {
+        /*could not get this to work so put a off white background*/
         background-image: url("./Assets/Images/newricepaper.png");
+        background-color: #dbdbdb;
         padding: 0;
         height: 100%;
         margin: 0%;
+    }
+    
+    .contentHeader {
+        color: #4aaaa5;
     }
     
     .stickyHeader {
@@ -54,9 +60,9 @@
         text-align: left;
         width: 280px;
         margin-left: 20%;
-        height: 40px;
-        margin-top: -40px;
-        padding-top: 90px;
+        height: 35px;
+        margin-top: -30px;
+        padding-top: 80px;
         padding-bottom: 0;
         padding-left: 20px;
         color: #ffffff;
