@@ -20,7 +20,7 @@
     
     body {
         /*could not get this to work so put a off white background*/
-        background-image: url("./Assets/Images/newricepaper.png");
+        background-image: url('../Images/Seamless-Rice-Paper-Texture.png');
         background-color: #dbdbdb;
         padding: 0;
         height: 100%;
